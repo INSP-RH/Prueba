@@ -167,8 +167,8 @@ NumericVector Child::FFMReference(NumericVector t){
     ffm_ref(9,_)   = 31.76*(1 - sex) + 31.10*sex;
     ffm_ref(10,_)  = 34.86*(1 - sex) + 34.55*sex;
     ffm_ref(11,_)  = 40.64*(1 - sex) + 36.64*sex;
-    ffm_ref(12,_)  = 43.02*(1 - sex) + 39.41*sex;
-    ffm_ref(13,_)  = 45.04*(1 - sex) + 38.54*sex;
+    ffm_ref(12,_)  = 43.02*(1 - sex) + 38.54*sex;
+    ffm_ref(13,_)  = 45.04*(1 - sex) + 40.99*sex;
     ffm_ref(14,_)  = 47.81*(1 - sex) + 41.16*sex;
     ffm_ref(15,_)  = 49.01*(1 - sex) + 42.07*sex;
     ffm_ref(16,_)  = 51.98*(1 - sex) + 42.42*sex;
